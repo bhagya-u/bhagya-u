@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Spring and Hibernate.<br>/<br>All my projects are available on Github<br>Reach out me at - bhagyabelageri961@gmail.com
+I'm currently learning Spring and Hibernate.<br><br>All my projects are available on Github<br>Reach out me at - bhagyabelageri961@gmail.com
 
 
 ## 🌐 Socials:
