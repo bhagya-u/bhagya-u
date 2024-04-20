@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Spring and Hibernate.<br>Check out my resume here - https://bhagya-u.github.io/Portfolio/<br>All my projects are available on Github<br>Reach out me at - bhagyabelageri961@gmail.com
+I'm currently learning Spring and Hibernate.<br>/<br>All my projects are available on Github<br>Reach out me at - bhagyabelageri961@gmail.com
 
 
 ## 🌐 Socials:
